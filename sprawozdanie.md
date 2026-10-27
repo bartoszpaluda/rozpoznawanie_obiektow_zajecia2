@@ -21,6 +21,8 @@ Celem ćwiczenia była poprawa jakości i zdolności generalizacji klasyfikatora
 - **Zadania dodatkowe:** 
   1. Zaimplementowano mechanizm wczesnego zatrzymania (*early stopping* z cierpliwością 4 epok), który po zakończeniu treningu przywraca wagi z checkpointu o najniższej stracie walidacyjnej.
   2. Przeprowadzono przegląd współczynnika uczenia dla wartości LR z zakresu {0.1, 0.01, 0.001, 0.0001} na przestrzeni 4 epok.
+
+- **Link do Github'a:** https://github.com/bartoszpaluda/rozpoznawanie_obiektow_zajecia2/tree/main
 ---
 
 ## 3. Wyniki
